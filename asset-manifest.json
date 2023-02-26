@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-images/static/css/main.dbd9d21a.css",
+    "main.js": "/goit-react-hw-04-images/static/js/main.3ea48461.js",
+    "static/media/Pngtree_vector search icon_3783210.png": "/goit-react-hw-04-images/static/media/Pngtree_vector search icon_3783210.e8563404d6d7f7de7011.png",
+    "index.html": "/goit-react-hw-04-images/index.html",
+    "main.dbd9d21a.css.map": "/goit-react-hw-04-images/static/css/main.dbd9d21a.css.map",
+    "main.3ea48461.js.map": "/goit-react-hw-04-images/static/js/main.3ea48461.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd9d21a.css",
+    "static/js/main.3ea48461.js"
+  ]
+}
