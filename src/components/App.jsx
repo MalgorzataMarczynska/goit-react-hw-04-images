@@ -42,7 +42,9 @@ export const App = () => {
             'You have reached end of results or we did not find any'
           );
         }
+
         setImages([...images, ...newImages]);
+        //setImages(images.concat(newImages));
       } catch (error) {
         setError(error);
       } finally {
@@ -50,7 +52,7 @@ export const App = () => {
       }
     };
     handleRequest();
-  }, [query, searchPage]);
+  }, [query, searchPage, images]);
 
   const checkModalKey = e => {
     if (e.code === 'Escape') {
